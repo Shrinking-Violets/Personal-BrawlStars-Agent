@@ -1,8 +1,9 @@
 import os
+from dotenv import load_dotenv
 import httpx
 from typing import Optional
-from .schemas import PlayerProfile
-
+from .schemas import PlayerProfile, BattleLog
+load_dotenv()
 class BrawlStarsClient:
     """Asynchronous client for interacting with the official Supercell Brawl Stars API."""
 
@@ -30,3 +31,12 @@ class BrawlStarsClient:
             
             # Pydantic automatically parses and validates the JSON body
             return PlayerProfile.model_validate(response.json())
+    async def get_battle_log(self, player_tag: str) -> BattleLog:
+            """Fetch a player's recent battle log asynchronously."""
+            formatted_tag = player_tag.replace("#", "%23")
+            url = f"{self.BASE_URL}/players/{formatted_tag}/battlelog"
+
+            async with httpx.AsyncClient() as client:
+                response = await client.get(url, headers=self.headers, timeout=10.0)
+                response.raise_for_status()
+                return BattleLog.model_validate(response.json())
