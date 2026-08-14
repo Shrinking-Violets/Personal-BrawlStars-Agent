@@ -1,0 +1,1331 @@
+Release Notes June 2026
+Maintenance - August 4
+BUG FIXES
+
+Ability effects are now applied while the respawn protection is active
+
+Meg’s “Heavy Metal” Star Power only heals her if she hits an opponent with her Super
+
+8-Bit's "Extra Credits" Gadget is no longer able to shoot over walls
+
+Nori can now jump over obstacles after his attack is fully charged when his 1st NanoPower is equipped
+
+Nori’s Super no longer gets canceled if thrown while dashing
+
+Nori's dash no longer breaks Gene’s Super
+
+Fixes to texts and descriptions
+
+
+NANOPOWER BALANCE CHANGES
+
+NERFS
+
+Sirius - 2nd NanoPower: Shadow health buff decreased 40% > 30%
+
+Sirius - 3rd NanoPower: Shadow spawn time increased 8s > 16s
+
+Frank - 3rd NanoPower: HP buff decreased 50% > 35%
+
+Alli - 1st NanoPower: Enrage reload speed decreased 60% > 45%
+
+Ziggy - 2nd NanoPower: Super area decreased 50% > 35%
+
+Damian - 1st NanoPower: Punch size decreased 0.5 > 0.3
+
+Max - 2nd NanoPower: Super Speed Boost decreased 150% > 100%
+
+Tick - 1st NanoPower: Main attack extra mines decreased 2 > 1
+
+Starr Nova - 2nd NanoPower: Slash range decreased 1.5 > 1
+
+BUFFS
+
+Belle - 1st NanoPower - Projectile Bounce range increased 50% > 120%
+
+Tara - 2nd NanoPower - Super Shadow Health increased 8500 > 10000
+
+Fang 1st NanoPower - Popcorn drops cooldown decreased 3s > 1.5s
+
+Mr. P - 1st NanoPower - Main attack size increased 40% > 50%
+
+Sprout - 1st NanoPower - Main attack size increased 30% > 40%
+
+Buzz - 3rd NanoPower - Hypercharge charge buff increased 50% > 100%
+
+Bo - 3rd NanoPower - Super charge buff increased 25% > 40%
+
+Edgar - 2nd NanoPower - Super auto charge speed increased 100% > 150%
+
+8-Bit - 2nd NanoPower - Super area increased 35% > 50%
+
+Mortis - 3rd NanoPower - Heal from damage dealt increased 30% > 40%
+
+Rico - 1st NanoPower - Bouncing gumballs cooldown decreased 3s > 1.5s
+
+Penny - 1st NanoPower - Burst projectiles range increased 50% > 100%
+
+Barley - 1st NanoPower - Main attack size increased 20% > 30%
+
+Angelo - 3rd NanoPower - Main attack charge speed increased 40% > 50%
+
+
+GENERAL BALANCE CHANGES
+
+NERFS
+
+Crow
+
+Main attack damage reduced 380 -> 320
+
+Gadget - Slowing Toxin - Damage reduced 800 > 600
+
+Griff
+
+Gadget - Piggy Bank - Explosion radius reduced 800 > 600
+
+Gadget - Piggy Bank - Buffie: Bonus explosion radius increased 25% > 30%
+
+Star Power - Keep the Change - Spread increased by 55%
+
+Starr Nova
+
+Health reduced 4000 > 3700
+
+Main attack reload speed increased 1400 > 1600
+
+Gadget - Floaty Time - Decay rate increased by 50% (max duration reduced from 10s > 7s)
+
+Star Power - Power Level: Maximum - Damage increase per stack reduced 5% > 4% (max 30% > 20%)
+
+Damian
+
+Main attack fire punch damage reduced from 1000 > 800
+
+Main attack damage from explosion reduced from 1000 > 800
+
+Super damage from speaker bounce reduced 800 > 400
+
+Super speaker Health reduced 2000 > 1500
+
+Max
+
+Gadget - Phase Shift - Buffie - Time for second dash reduced 3s > 2s
+
+Super charge rate reduced 92 > 80
+
+Bolt
+
+Super shield percentage reduced 40% > 30%
+
+Trait - Super charge from moving reduced by 23%
+
+8-Bit
+
+Super charge rate reduced 99 > 80
+
+Gadget - Extra Credits - Cooldown increased 15s > 18s
+
+Buffied Star Power - Plugged In - Bonus movement speed for allies reduced 15% > 10%
+
+Surge
+
+Main attack unload speed increased 400 > 470
+
+Gadget - Power Shield - Reload ammo reduced 2 > 1
+
+Maintenance - July 8
+Bug Fixes:
+Fixed missing visual effects on Tick's Mr. Krabs Skin
+
+Fixed missing visual effects on Spike Skins
+
+Fixed Rico being able to use the 'Bouncy Castle' Gadget in the Shadow Realm
+
+Fixed Rico charging his Super by bouncing projectiles from walls to Power Cube boxes with 'Super Bouncy' Star Power equipped
+
+Fixed Meg (base form) using default Hypercharge projectiles instead of the skinned ones when Buffie is equipped
+
+Fixed Mortis dealing less damage than intended while Hypercharged with Buffie attached
+
+Fixed Sirius' Shadow's stats to be based on a % of the copied Brawler instead of Sirius' Health
+
+Fixed Starr Nova being able to use a second Hypercharged Super and nearly recharge Hypercharge
+
+Fixed Larry & Lawrie spawning multiple Lawries with the third NanoPower
+
+Fixed Crow's Hypercharge poison dealing less damage than intended with Buffies and Star Power #2 equipped
+
+Fixed Carl and Charlie firing duplicate returning projectiles after picking up 8-Bit's ammo clips
+
+Fixed Byron's Hypercharged attack dealing incorrect damage
+
+Fixed a server crash caused by an interaction between Jacky's 'Counter Crush' Star Power and Sprout's NanoPower
+
+Fixed an issue preventing teams of 3 from matchmaking in Combat Cooking
+
+Fixed several crashes that could occur during Nano modes
+
+Fixed players spawning with the wrong team in Trio Showdown on Crossing the Coast Map
+
+Fixed Emz's main attack damaging enemies through walls when the first NanoPower is equipped
+
+Balance Changes:
+📈 BUFFS 📈
+
+JACKY
+- Health increased from 5000 ➡️ 5200
+
+BONNIE
+- Main attack damage increased from 1120 ➡️ 1220
+
+JESSIE
+- Main attack projectile speed increased from 2870 ➡️ 3050
+
+📉 NERFS 📉
+
+8-BIT
+- Buffied "Extra Credits" Gadget bouncing projectile damage reduced from 75% ➡️ 60%
+- Buffied "Boosted Booster" Star Power ammo spawn time increased from 3s ➡️ 5s
+- Hypercharge rate reduced by 15%
+
+SURGE
+- "Power Shield" Gadget cooldown increased from 18s ➡️ 22s
+- Hypercharge range reduced from 20 ➡️ 16
+- Buffied Hypercharge main attack's second shot damage was reduced from 70% ➡️ 50%
+- Hypercharge projectile damage reduced from 1000 ➡️ 800
+
+BROCK
+- Buffie'd "Rocket No. 4" Star Power time for extra range increased from 4s ➡️ 6s
+- "Rocket Barrage" Gadget knockback removed
+
+MEG
+- "Toolbox" Gadget Super charge duration increased from 4s ➡️ 6s
+- Buffied "Jolting Volts" Gadget extra duration reduced from 2s ➡️ 1s
+- Mecha's main attack Super charge rate reduced by 60%
+- Buffied Hypercharge main attack Super charge rate reduced by 60%
+
+CROW
+- Main attack damage reduced from 420 ➡️ 380
+
+COLETTE
+- "Gotcha!" Gadget duration of charm reduced from 1s ➡️ 0.5s
+
+STARR NOVA
+- Main attack damage reduced from 540 ➡️ 480
+- Super charge rate increased by 11%
+Note: This change keeps the number of attacks to charge Super the same as before the main attack damage nerf (10 hits to charge Super)
+
+MAX
+- Hypercharge main attack Super charge rate reduced from 8% ➡️ 7%
+
+AND we're rolling out an optional update for iOS and Android over the next few days with the following fixes:
+
+Fixed players being unable to invite others to their team
+
+Fixed the friends invite banner popping up during matches
+
+Fixed the XP icon drifting off-screen when cycling through Quest progress after a match
+
+Fixed misaligned Quest cards on the post-game Quests screen
+
+Fixed reconnecting during Nanopower matches causing in-game buttons to disappear
+
+RAMEN REBELLION
+An automated noodle shop has opened across from Kenji & Kaze’s sushi shop, catching the interest of their son, Nori. Turmoil ensues!
+
+
+These are the most ambitious Seasons we've ever had! Two connected Seasons, nine eventful weeks, and a story that might change a Brawler… FOREVER!
+
+
+Season 1 and Season 2 are tied together by a single unfolding story, weaving animations, Powers, game modes, events, tie-in Skins, and more! Season 1, called NanoNoodles, features NanoDrops containing NanoPowers, while Season 2, called Windstock features Smoothie Drops containing Fusions.
+
+
+NanoDrops
+
+NanoDrops can be earned through Daily Wins, Mega Quests, Boss Fights, Side Quests, Contests and Creator QR codes.
+
+Each NanoDrop gives players 3 picks from a set of 5 cups. Each cup contains 0-3 NanoNoodles, and each NanoNoodle represents a reward. The minimum number of NanoNoodles from each NanoDrop is 1 and the maximum is 9.
+
+Each NanoDrop gained also fills up the NanoMeter for additional rewards.
+
+
+NanoPowers
+
+NanoPowers are unlocked through NanoDrops and contain per-Brawler Power-ups!
+
+There are a total of 106 NanoPowers players can unlock across 4 rarities: Baseline, Augmented, Cybernetic and Quantum. Once unlocked, Brawlers with NanoPowers automatically have them active for featured event game modes.
+
+Each NanoPower gained provides 3 unique Powers for each Brawler. At the start of a match that has the NanoPowers modifier active, a Brawler with a NanoPower chooses 1 Power to gain from 2 options provided.
+
+NanoPowered Brawlers have a visible effect on the Brawler screen and Battle Card, and can be found in the Powers screen in the Event Hub.
+
+In the Windstock Season, NanoPowers continue to work. If a Fusion is gained for a Brawler with a NanoPower, it replaces the NanoPower (Fusions are more powerful variants of NanoPowers).
+
+
+Smoothie Drops
+
+Smoothie Drops can be earned through Daily Wins, Mega Quests, Topple the Tower, Side Quests, and Creator QR codes.
+
+Each Smoothie Drop gives players 3 picks from a set of 5 cups. Each cup contains 0-3 Gulps, and each Gulp represents a reward. The minimum number of Gulps from each Smoothie Drop is 1 and the maximum is 9.
+
+Each Smoothie Drop gained also fills up the Smoothie Meter for additional rewards.
+
+
+Fusions
+
+Fusions are unlocked through Smoothie Drops and contain per-Brawler Power-ups.
+
+There are a total of 106 Fusions players can unlock across 4 rarities: Baseline, Augmented, Cybernetic and Quantum. Once unlocked, Brawlers with Fusions automatically have them active for featured event game modes.
+
+Each Fusion gained provides 3 unique Powers for each Brawler. At the start of a match with the Fusion modifier active, a Brawler with a Fusion randomly has 2 of their 3 Powers fuse together, and they gain the benefits of both during that match.
+
+Fusion Brawlers have a visible effect on the Brawler screen and Battle Card, and can be found in the Powers screen in the Event Hub.
+
+
+Daily Contests
+
+Step up to the challenge with Daily Contests, a new take on the fan-favorite Katana Kingdom Contests! Every day, a fresh set of contests appears with a choice of 1 of 3 game modes to compete in, and a limited number of attempts to make them count. Play at least one game to earn NanoDrops as your reward, then come back tomorrow for a brand-new lineup!
+
+Topple the Tower
+
+Climb a 5-floor tower, with each floor featuring a different pre-set map and game mode!
+
+At the start, players are given a curated pool of 5-12 Brawlers to choose from throughout the event. You need at least 8 Brawlers on your account to play the event, which players will have reached when they're eligible at 325 Trophies.
+
+All Brawlers are maxed out, including Buffies. The curated pool favors Brawlers with Fusion Powers and NanoPowers where possible, picking from Brawlers you have unlocked.
+
+There are 5 pre-selected game modes that make up the 5 floors of the tower. Before each floor, the player picks one Brawler from the remaining available pool.
+
+Win a floor: the Brawler you used gets locked to that floor, and you advance. Pick a new Brawler for the next floor.
+
+Lose a floor: you stay on the same floor, but the Brawler you just used is removed from the pool. Try again with a different one.
+
+There’s only one Tower per day while the event is active.
+
+Players keep going until they either clear all 5 floors or run out of Brawlers. Once a Tower is finished (lost or won), players need to wait until the next Tower opens to attempt again!
+
+
+Rewards
+
+Each floor has its own reward, granted upon clearing it. Completing all floors without a single loss (a Perfect Run) earns a special bonus reward on top, a unique player title: "Unbeatable"!
+
+
+Team Play
+
+The event supports team play! Players can only team up if they're on the same floor, and duplicate Brawlers are allowed.
+
+
+Presentation
+
+The tower visually evolves as you progress! Floors light up and animate as they're cleared, with celebratory effects at the end. A dedicated music track plays while you're in the event menu. Floors are numbered and the difficulty is shown through the map and game mode choices available.
+
+
+Side Quests
+
+Side Quests are a new experience where players get access to special Quests that, when completed, progress a milestone tracker that grants extra rewards! The special Quests relate to the featured Brawlers that week.
+
+Players can see Side Quests for Brawlers they don't own (the quest appears locked)
+
+Some quests will require a Brawler with a specific Power Level
+
+Bosses
+This update will feature 3 brand-new bosses to challenge in Nori, Tara, and Brock! Take on their nano infused states in chaotic fights with fish, clones, and TONS of rockets!
+
+
+Nori: Take on Nori and his trusty Fish companions as he flies around the map with fierce fishing pole dashes and slashes.
+
+Tara: An army of shadow clones, giant black holes, and dangerous projectiles will litter the map as you take on Tara and her squad of clones.
+
+Brock: MORE ROCKETS, MORE CHAOS, MORE BROCK. Take on the fiercest blaster in StarrPark while weaving between an onslaught of aerial rocket barrages against Brock’s Nano-infused boss fight!
+
+NEW Brawlers
+Nori - Legendary - Assassin
+As the child of Kenji and Kaze, Nori was always destined for great things. Being the first Brawler ever born in Starr Park has also given him extraordinary powers! He's not too bad at cooking either.
+
+Attack:  FISHING FURY
+
+Nori slashes forwards. Charging his attack casts his fishing rod. The longer the charge, the farther he casts. He can pull himself to a wall or Brawler - dashing through Brawlers and dealing damage. At max charge, he will jump over walls! Nori catches fish by hitting Brawlers with his main attack. Fish are used for various abilities!
+
+Super: CATCH OF THE DAY
+
+Nori dives into water then emerges, dealing area damage after a short delay. His Super consumes all fish, increasing its size by 5% and damage by 4% per fish.
+
+Gadget 1: SUSHI SNACK
+
+Nori eats up to 3 fish to heal himself for 1000 per fish. Cooldown: 12 seconds.
+
+Gadget 2: GONNA NEED A BIGGER NET
+
+Aim a fishing net that roots the first Brawler hit for 1.25 sec and deals 800 damage. Cooldown: 20 seconds.
+
+Star Power 1: BIG HAUL
+
+Nori catches 3 fish when his Super hits enemy Brawlers.
+
+Star Power 2: HIS MOTHER’S SON
+
+Nori gains +20% speed for 1 sec whenever he hits an enemy with his Main Attack.
+
+Wendy - Mythic - Support
+A smart scientist, with a nostalgic soul. After years working in shady corporate laboratories, she left to build Windstock and help the planet, not harm it!
+
+Trait: This Brawler can walk over Water AND Charges Super when taking shield damage.
+
+Attack: BLOW DRYER
+
+Wendy fires a blast dealing 2400 damage and giving herself 1386 shield. When hitting a teammate, Wendy gives them 2000 shield.
+
+Super: PLANET PROTECTOR
+
+Wendy deploys a shield generator that absorbs 75% of damage taken by Wendy and her teammates within its range.
+
+Gadget 1: WIND-POWERED
+
+Wendy’s platform gives her a boost and she jumps a short distance. Cooldown: 15 seconds.
+
+Gadget 2: GREEN GRENADE
+
+Wendy launches a wind grenade that slows all enemies hit and stops them healing momentarily. Cooldown: 15 seconds.
+
+Star Power 1: SLOWING SHIELD
+
+Enemies in Wendy’s shield generator are slowed.
+
+Star Power 2: SOLAR SHIELD
+
+Wendy’s shield generator gains an additional 2000 health.
+
+NEW Hypercharges
+STARR NOVA: THE HYPERCHARGE
+Starr Nova becomes invulnerable while dashing and has almost unlimited ammo!
+
+BOWLING BOLT:
+Bolt destroys all walls while his Hyper Super is active.
+
+NEW Buffies
+More Brawlers are joining the Buffies family this update! Each gets 3 Buffies that boost their Gadgets, Star Powers, and Hypercharge.
+
+Rico
+With Rico's Buffies, both of his Gadgets are receiving reworks. The new Gadgets mirror his core bouncy castle chaos.
+
+Gadget 1: Multiball Launcher (Rework)
+Rico deploys a vending machine with 4000 HP. When destroyed, it fires projectiles in all directions.
+
+Buffied: When Rico shoots the vending machine, it loads up with more projectiles.
+
+Gadget 2: Bouncy Castle (Rework)
+Rico fires a giant gumball that splits into smaller projectiles when hitting a wall or enemy Brawler.
+
+Buffied: Both projectiles also slow enemy Brawlers.
+
+Star Power 1 : Super Bouncy
+After their first bounce, bullets from Rico’s Main Attack and Super deal +240 damage.
+
+Buffied: Bounced bullets give 10% Super charge on hit.
+
+Star Power 2: Robo Retreat
+Rico moves 35% faster when his health falls below 40%.
+
+Buffied: Movement speed is increased up to 60% at 10% HP.
+
+Hypercharge: Trick Shot King
+Rico’s Super’s projectiles bounce even further!
+
+Buffied: Projectile speed is increased and main attack fires 2 additional projectiles.
+
+Brock
+Brock's Gadgets and Star Powers are in a healthy spot, but his Super is getting a refresh. It now tracks his movement so the rocket barrage moves with him.
+
+Super: Rocket Rain (Rework)
+Brock fires a rocket barrage that takes out enemies and obstacles. He only wants to see you bathing in the Rocket Rain!
+
+Gadget 1: Rocket Laces (now aimable)
+Brock rocket jumps, knocking back enemies and dealing 1000 damage on takeoff and landing.
+
+Buffied: Gain a +2 sec movement speed boost when Rocket Laces hits an enemy Brawler.
+
+Gadget 2: Rocket Fuel
+Brock fires a large rocket, destroying terrain and dealing 1000 damage.
+
+Buffied: The mega rocket splits into 4 smaller rockets dealing less damage.
+
+Star Power 1: More Rockets
+Adds an extra salvo of rockets to Brock’s Super.
+
+Buffied: Brock gains a speed boost while channeling Super.
+
+Star Power 2: Rocket No.4
+Increases Brock’s ammo by 1.
+
+Buffied: Every 4 seconds, Brock's next attack gains increased range.
+
+Hypercharge: Rocket Barrage
+Rockets fired during the Super are cluster bombs.
+
+Buffied: Brock's rockets gain two smaller side rockets dealing 60% less damage.
+
+8-Bit
+8-Bit's Buffies are focused on making his Super an even better boost for allies, as well as making his Extra Credits Gadget more reliable and active.
+
+Gadget 1: Cheat Cartridge
+8-Bit teleports to his Damage Booster.
+
+Buffied: Fully heals the damage booster, and heals 8-Bit for 3600.
+
+Gadget 2: Extra Credits (Rework):
+8-Bit fires 18 projectiles. This can now be used during main attack, and is aimable.
+
+Buffied: These projectiles also bounce to nearby enemies.
+
+Star Power 1: Boosted Booster
+Increase the Damage Booster’s range by 50% and damage by an additional 15%
+
+Buffied: Every 3 sec the Damage Booster spawns ammo lasting 8 sec and reloading 1 ammo.
+
+Star Power 2: Plugged In
+While near the Damage Booster 8-Bit gains a 25% Speed Boost.
+
+Buffied: Teammates also get a 15% Speed Boost from Damage Booster.
+
+Hypercharge: Aimbot
+8-Bit’s turret now has a laser that shoots nearby enemies. Shots do 230 damage.
+
+Buffied: 8-Bit gains infinite ammo during Hypercharge and can interrupt his main attack by firing a new main attack.
+
+Meg
+For Meg, we wanted to lean even more into the fantasy of piloting an awesome Mecha! Meg's Gadgets are getting a large rework, letting her more aggressively use the Mecha to make space or hold it. Her Super is also updated so building the Mecha does an area of effect of damage.
+
+Super: Mega Machina (Rework)
+Meg jumps into her Mecha suit for some colossal carnage! When entering the Mecha, it does 3000 damage to nearby opponents.
+
+Gadget 1: Jolting Volts (Rework):
+Can only be used in Mecha form. The Mecha and nearby teammates heal for 11% each sec for 7 sec.
+
+Buffied: Toolbox heals for +2 sec.
+
+Gadget 2: Tool Box (Rework)
+Meg ejects, launching her Mecha forward, dealing 1600 damage. After ejecting, Meg fully charges her Super over 4 sec.
+
+Buffied: Mecha dash leaves a trail of fire dealing 30% of the damage for 3 sec.
+
+Star Power 1: Force Field
+When exiting the Mecha, Meg gains 40% shield.
+
+Buffied: Meg gains a speed boost while the shield is active.
+
+Star Power 2: Heavy Metal (Rework)
+The Mecha recovers 1200 health for each enemy hit with Meg’s Super.
+
+Buffied: Also steals 1 ammo from enemy Brawlers.
+
+Hypercharge: Tungsten Toughness (Updated for new Super)
+Feel the Steel has increased range, and enemies hit when Meg calls in her Mecha are slowed.
+
+Buffied: The Mecha's attacks explode when striking an enemy, dealing damage in a small area. While out of Mecha, Meg's attacks fire an extra projectile and home in on enemies.
+
+Max
+Max's Buffies are focused on leaning more into her support class, giving her new tools to buff her allies and have a full speedy squad!
+
+Gadget 1: Phase Shifter (now aimable):
+Max dashes forward, becomes immune to all damage while dashing.
+
+Buffied: Max can dash again 3 sec after the first dash.
+
+Gadget 2: Sneaky Sneakers (Quality of Life rework)
+Max throws a lightning bolt. If she reactivates the Gadget, or after 3 seconds, she blinks back to the lightning bolt and recovers any damage taken since it was placed.
+
+Buffied: When blinking back, Max refills her ammo and heals nearby allies for the same amount as herself.
+
+Star Power 1: Super Charged (Rework)
+Hitting an enemy with her Main Attack extends the duration of her Super by 0.25 sec.
+
+Buffied: Teammates affected by her Super gain a shield for 4 sec.
+
+Star Power 2: Run N Gun:
+Max reloads faster while moving.
+
+Buffied: Gain a speed boost when hitting enemies with Faster Blaster.
+
+Hypercharge: Unlimited Energy
+
+Buffied: Faster Blaster charges Max and nearby allies' Super when hitting enemies.
+
+Surge
+Surge's Buffies are focused on giving him more active ways of charging his Super, and letting him be even more powerful once he has leveled up! He's also getting a brand-new Hypercharge.
+
+Gadget 1: Power Surge (Rework)
+Surge's Power surges! Increasing his Super charge rate by 30% for 5 sec.
+
+Buffied: Power Surge also increases reload speed by 30%.
+
+Gadget 2: Power Shield
+Within the next 2 sec, Surge absorbs 50% damage of the next hit and uses the energy to reload 2 ammo.
+
+Buffied: If Surge is hit during Power Shield, reduce the cooldown by 50%.
+
+Star Power 1: To the Max! (Rework)
+Surge's main attack now bounces off walls.
+
+Buffied: When bouncing off walls, it creates 2 smaller projectiles.
+
+Star Power 2: Serve Ice Cold (Rework)
+Surge always spawns with Super.
+
+Buffied: While in Stage 3, Party Tricks grants a speed boost when using his Super.
+
+Hypercharge: Stage 5 (Rework)
+Surge’s Super gains increased range and shoots Justice Juice in every direction when landing.
+
+Buffied: Justice Juice fires a second projectile dealing less damage.
+
+Seasons & Skins
+Two themed Seasons bring a fresh wave of Skins this update, plus a variety of miscellaneous Skins!
+
+Season: NanoNoodles
+MASTER MICO | EPIC | Brawl Pass
+
+FIRE MASTER MICO | EPIC | Brawl Pass Chroma #1
+
+EARTH MASTER MICO | EPIC | Brawl Pass Chroma #2
+
+TICKOYAKI | MYTHIC | 199 Gems
+
+FIGHTER BERRY | MYTHIC | 199 Gems
+
+CYBERPUNK Jae-Yong-YONG | EPIC | Brawl Pass
+
+NANO Jae-Yong-YONG | EPIC | Brawl Pass Chroma #1
+
+CHOOM Jae-Yong-YONG | EPIC | Brawl Pass Chroma #2
+
+CYBER SHELLY | LEGENDARY | 299 Gems
+
+TECH TARA | MYTHIC | 199 Gems
+
+NANO NORI | RARE | 29 Gems
+
+Title: NanoPowered
+
+Season: Windstock
+BIOTECH BYRON | EPIC | Brawl Pass
+
+UNEARTHED BYRON | EPIC | Brawl Pass Chroma #1
+
+LEAF MASTER BYRON | EPIC | Brawl Pass Chroma #2
+
+GRIZZLED KENJI | MYTHIC | 199 Gems
+
+ENERGIZED SPROUT | MYTHIC | 199 Gems
+
+RETROFUTURE ROSA | EPIC | Brawl Pass
+
+RENEWABLES ROSA | EPIC | Brawl Pass Chroma #1
+
+SCI-FI ROSA | EPIC | Brawl Pass Chroma #2
+
+WINDSTOCK GRAY | LEGENDARY | 299 Gems
+
+TURBINE MOE | MYTHIC | 199 Gems
+
+Title: Wind-Powered
+
+Miscellaneous Skins
+Adidas
+ADIDAS ASH | EPIC | 149 Gems
+
+Event
+MEGA MECHA MEG | HYPERCHARGE | 499 Gems
+
+MEGA CORPORATE MECHA MEG | HYPERCHARGE | 499 Gems | Chroma #1
+
+MEGA EARTH MECHA MEG | HYPERCHARGE | 499 Gems | Chroma #2
+
+Ranked
+CYBER BROCK | Stage 1
+
+CYBERPUNK BROCK | Hypercharge 1
+
+CORRUPTED BROCK | Hypercharge Chroma #1
+
+CYBERCHAOS BROCK | Hypercharge Chroma #2
+
+True Silver / Gold Skins
+TRUE GOLD DAMIAN
+
+TRUE SILVER DAMIAN
+
+TRUE GOLD STARR NOVA
+
+TRUE SILVER STARR NOVA
+
+TRUE GOLD BOLT
+
+TRUE SILVER BOLT
+
+Balance Changes
+A general note for Brawlers receiving changes to their main attack damage: unless otherwise noted, they keep the same number of attacks to charge their Supers, as before.
+
+Buffs
+Piper
+
+Health increased from 2500 to 2800
+
+Main Attack max damage increased from 1700 to 1800
+
+
+Piper has been outshone by other marksmen for some time. To give her more power, extra health will help with trading, and Main attack damage will give her a wider scope of Brawlers she can quickly take down.
+
+
+Mandy
+
+Main Attack damage increased from 1300 to 1400
+
+Star Power - Hard Candy: Shield increased from 40% to 50%
+
+
+Similar to Piper, Mandy has fallen out of consideration when choosing marksmen after her Super/Hyper charge damage changes. We don't want to have her one shotting every squishy Brawler that spawns in, but we do want to allow her to have more damage when competing with other marksmen.
+
+
+Gale
+
+Super damage increased from 600 to 800
+
+
+Gale should be shining in such an aggressive meta but his overall strength is a bit too low for him to be a desirable pick. Extra damage to his Super should allow him to pressure aggressive Brawlers and take over the map more.
+
+
+Tara
+
+Main Attack reload speed decreased from 2000 to 1800
+
+
+Tara's core kit is still incredibly powerful but she lacks the consistency to shine, so we want to give her a bit more uptime on her damage to allow for more control and pressure.
+
+
+Shelly
+
+Star Power - Shell Shock: Slow changed from 350 to 55%
+
+Gadget - Fast Forward: Cooldown decreased from 20s to 16s
+
+
+Similar to Gale, Shelly is a fantastic counter to aggressive metas but is falling a bit short in her ability to overcome such potent aggression. To give her a bit more pressure and mobility we're giving her more frequency in her dashing and more control with Shell Shock.
+
+
+Dynamike
+
+Reload speed reduced from 1600 to 1400
+
+
+Alongside Marksman, throwers are struggling in an aggression heavy meta. With these changes Mike will have more pressure and control on the map.
+
+
+Larry & Lawrie
+
+Super damage increased from 150 to 200
+
+Super - Lawrie HP increased from 3000 to 3300
+
+
+Similar to Mike we want some extra power in throwers, for Larry we want to give his Twin some extra oomph with more damage and survivability to let him exert more pressure once he's ramped into his Super.
+
+
+Sprout
+
+Main Attack reload speed reduced from 1700 to 1500
+
+Main Attack damage increased from 1040 to 1100
+
+
+Sprout needs some more consistency and baseline damage to help it shine more when the opportunity for picking it arises. More reload speed will help those threatening explosions rain in more often, and be more potent when landing them.
+
+
+Barley
+
+Super projectile speed increased from 1504 to 1700
+
+Hyper Super projectile speed increased from 2104 to 2300
+
+
+Barley has got some decent use in modes like hotzone at the moment with the options of damage or healing, we feel the main thing holding him back at the moment is how quickly he can get his damage and control out so we're tuning up the projectile speeds of both his Super forms.
+
+
+Juju
+
+Super - GriGri's HP increased from 3600 to 4000
+
+
+Juju's main attack is doing some great work, but Grigri is a bit too weak to be a competitive pet. The extra HP should help Grigri stand its ground and let Juju control the map much better.
+
+
+Grey
+
+Gadget - Grand Piano: Speed of Piano reduced from 2500 to 1500
+
+Main Attack damage increased from 1160 to 1280
+
+
+Gray's core kit is still great in specific team comp's but lacks the fire power to be used unless paired with another Brawler that can make full use of his portals. Some baseline damage and evening out the power of his gadgets should help him feel more consistent and versatile.
+
+
+Surge
+
+Movement Speed at Level 0 increased from 650 to 680
+
+Speed bonus from Level 1 decreased from 170 to 140
+
+
+Surge is often struggling to get out of his first stage so we're evening out a bit of the bonuses gained from stage one and putting them into stage zero to help with a bit more immediate power.
+
+
+Starr Nova
+
+Super - Main Attack damage increased from 1000 to 1100
+
+Health increased from 3700 to 4000
+
+Star Power - Mystical Star Technique: Healing increased from 162 to 216
+
+
+Starr Nova is having a fairly tough time compared with other assassins with larger burst windows, as well as struggling to get meaningful trading in with a combination of short range and average HP. In addition, her Mystical Star Technique isn't hitting the bar in terms of value, so some extra healing should allow it to be a more competitive decision between the Star Powers.
+
+
+Buzz
+
+Super charge rate increased from 96 to 100
+
+Hyper charge rate increased from 25 to 30
+
+
+Assassins and aggression drive the meta, but nobody's invited Buzz out for fun. He's quite close to where we want him so some slight buffs to availability of Super and hyper will help him dive in more regularly.
+
+
+Lou
+
+Main Attack projectile size increased from 50 to 60
+
+
+Lou's main attack is often difficult to get full value of. We don't want to touch too much of his power as he can be extremely oppressive when too strong so more reliability in him landing main attack should help him shine more without dominating the map.
+
+
+Carl
+
+Main Attack damage increased from 740 to 820
+
+
+Carl is Mr. Consistent, rarely weak or low impact but at the moment just not impactful enough to be a strong consideration when compared to the current cast of damage dealers and anti-tanks. Some extra baseline damage should help him shine more often.
+
+
+Pearl
+
+Main Attack heat consumed when attacking reduced from 450 to 380
+
+Recent updates to Pearl's heat has made it more difficult for her Star Powers to shine, so we're reducing the baseline consumption of heat in base attack to give a bit more space for her to stay above the 80% threshold.
+
+R-T
+
+Main Attack(Eat Static) - Damage increased from 740 → 1240
+
+After recent Bug fixes with R-T’s mark we can safely buff his Super damage back to it’s previous state!
+
+Nerfs
+Mortis
+
+Gadget — Combo Spinner: Cooldown increased from 15s to 18s
+
+Gadget — Combo Spinner: Bonus damage to low health enemies decreased from 50% to 30%
+
+Gadget — Creature of the Night: Damage and healing reduced from 760 to 700
+
+
+Mortis is often the go-to assassin and has been for some time. He has incredibly high burst potential with his gadgets so these changes will bring that down, as well as the frequency he has access to them. With the reduction to Combo spinner's damage he should have less situations where he can fully take down a Brawler with only two main attacks and his Gadget.
+
+
+Colette
+
+Gadget - Na Ah: Cooldown increased from 17s to 22s
+
+Star Power - Mass Tax: Damage reduction during Super lowered from 75% to 60%
+
+Super charge rate reduced from 100 to 90
+
+
+Colette's become a strong pick in most modes and maps with her Buffies. Being a bit too versatile we want to tone down how often she has access to her Super, the extra survivability Mass Tax gives her, and the frequency she can use that potent charm. These changes should keep her strong, but less overwhelming.
+
+
+Crow
+
+Main Attack poison duration reduced from 4s to 3s
+
+Main Attack reload speed increased from 1400 to 1600
+
+Main Attack damage increased from 320 to 420
+
+Health reduced from 3000 to 2800
+
+Hypercharge - Main Attack returning damage reduced from -30% to -40%
+
+
+Crow, similar to Colette, is incredibly safe in most modes and maps. To bring down his overall power we’re taking out some of his consistent poke damage and vision control with reducing the poison duration, making him more fragile with less HP, and reducing his damage uptime with reducing his reload speed. In addition, we feel his Hyper charge has a bit too much burst with the Buffies so we’re pulling back a bit of the bonus damage.
+
+
+Leon
+
+Gadget - Lollipop Drop: Health reduced from 1500 to 1000
+
+
+Leon has been a stalwart of the meta since his Buffies, with Lollipop drop being at the forefront of it. Often used in situations the rest of his kit isn't ideal just for the potent power attached to the Gadget. Bringing down the health of this should make it much easier to deal with and lower its prevalence across the game.
+
+
+Chester
+
+Super explosion damage reduced from 1880 to 1600
+
+Hyper Super explosion damage reduced from 1880 to 1600
+
+Gadget - Candy Beans: Damage boost reduced from 25% to 20%
+
+Gadget - Candy Beans: Reload speed reduced from 200 to 150
+
+Chester is incredibly versatile and safe. He's an ideal counter to much of the current meta so we don't want to be too heavy handed on him as the meta shifting will likely also means he loses some of his value, but we do want to tone down some of the potency he has when rolling high on his Candy beans Gadget, as well as the burst damage he has attached to his wall breaking supers.
+
+
+Edgar
+
+Gadget - Let's Fly: Cooldown increased from 14s to 18s
+
+Star Power - Fisticuffs: Healing from take down reduced from 30% to 20%
+
+Hyper charge rate reduced from 40 to 33
+
+
+With his updated Let's Fly Gadget, and Buffies Edgar can completely roll over squishy team comps and leave fairly unscathed. We want to lower the frequency that he can jump in with Let's fly, as well as how healthy he's able to stay when jumping in for a pick on squishy Brawlers. These should make picking when you jump in more meaningful and less frequent while still powerful. In addition, his Hyper Charge is extremely powerful but comes up too often for how much strength it has.
+
+
+Mina
+
+Main Attack 3 damage reduced from 2000 to 1800
+
+Gadget - Windmill: Duration reduced from 1.5s to 1s
+
+
+Mina is incredibly difficult to use which we love, she's a high skill high reward Brawler. However we felt that her final hit of the main attack was too strong especially when paired with a well timed Super to often leave the opponent unable to react. In addition windmill is allowing her to be a bit too reliable in modes that would normally not favor her like hotzone so we'll be cutting back some of it's power.
+
+
+Ruffs
+
+Hyper charge rate reduced from 40 to 35
+
+
+Ruffs similar to Chester is a Brawler that is reaping the benefits of a meta that favours him. As such we don't want to take too much power out of his kit with the main aim being lowering how often he can hand out free Hyper Charges.
+
+
+Meeple
+
+Gadget - Rage Quit: Cooldown increased from 18s to 20s
+
+Gadget - Rage Quit: Radius decreased from 2000 to 1600
+
+
+Meeple has crept up as a great counter to an aggressive meta, largely through their space control and the safety that Rage Quit grants them when an assassin dives in on them. These changes will keep much of that power in their kit but tone down how well they're countering many of the assassins.
+
+
+Shade
+
+Hypercharge rate reduced from 40 to 34
+
+
+Shade is another Brawler we have seen step up a ton with the last round of balancing. He's in a fairly healthy spot being a great late pick in draft and Super potent in specific maps and modes, but he's getting his hyper a bit too easily at the moment and we want to slow down how often he gets it.
+
+
+Lumi
+
+Gadget - Grim and Frostbitten: Duration reduced from 3.9s to 3s
+
+Gadget - Grim and Frostbitten: Size decreased from 700 to 600
+
+
+In the right hands Lumi is one of, if not the strongest Brawler around. We want to make sure she doesn't end up in a position of being unusable again, but want to lower the amount of space control and pressure she can exert across the map with her Grim and Frostbitten Gadget
+
+
+Najia
+
+Super charge from Super reduced from 80 to 50
+
+Hypercharge - Health of snakes reduced from 2000 to 1500
+
+
+Najia is overall in a much much healthier spot as of late but could still use some tuning down around her Super and hyper. With these changes she’ll have a much harder time looping supers, and her Hypercharge snakes should be considerably more manageable.
+
+
+Pierce
+
+Gadget - Bottomless Mags: Cooldown increased from 18s to 22s
+
+Gadget - You Only Brawl Twice: Cooldown increased from 12s to 18s
+
+
+Pierce is still the go to Marksman in 90% of cases due to a combination of incredible safety against aggressive Brawlers , and a huge amount of pressure with looping his last shots. We want to keep him feeling like a great Marksman and reward amazing aim, but lower that safety and reliability of looping last shots by lowering how available they both are.
+
+
+Bolt
+
+Main Attack - Max damage reduced from 900 → 760
+
+Super - Damage increased from 550 → 700
+
+Super Charge rate from Super → Reduced from 100 → 90
+
+Star Power - Unstoppaball - Bolt is immune to crowd control and gains 15% top speed during Super → Bolt is immune to crowd control for 1 seconds after activating his Super.
+
+
+Bolt is zooming around at the speed of sound, but is doing a bit too much damage and too difficult to slow down when paired with the Unstoppaball starpower. We’re going to shrink the window of Unstoppaball’s CC immunity, as well as move some of his main attack damage into the Super trail to make his immediate damage when rolling into a map less snowbally.
+
+
+Changes
+Spike
+
+Main Attack damage increased from 490 to 540
+
+Super charge rate decreased from 106 to 90 (now 4 attacks instead of 3)
+
+Star Power - Fertilize: Healing increased from 50% to 75%
+
+
+Griff
+
+Gadget - Coin Shower: Damage increased from 200 to 300
+
+Gadget - Coin Shower: Cooldown reduced from 20s to 15s
+
+Gadget - Coin Shower - Duration increased from 5s to 6s
+
+Gadget - Piggy Bank: Max explosion range reduced from 1200 to 1000
+
+Star Power - Keep the Change: Now shoots a 4th salvo in the same amount of time as 3
+
+
+Damian
+
+Super: Speakers now break after bouncing an enemy Brawler
+
+Super: Damage from speakers increased from 600 to 800
+
+Hypercharge: Damage increased from 400 to 600
+
+Brawl Arena Only
+Damian
+
+Damage scaling reduced from 3 to 1
+
+Health scaling reduced from 750 to 500
+
+
+Starr Nova
+
+Reload speed scaling reduced from 200 to 120
+
+Movement speed scaling reduced from 8 to 6
+
+Health scaling reduced from 450 to 400
+
+
+Lola
+
+Damage scaling reduced from 5 to 4
+
+
+Shade
+
+Reload speed scaling reduced from 150 to 125
+
+
+Chester
+
+Damage scaling reduced from 6 to 5
+
+
+Gigi
+
+Reload speed scaling reduced from 200 to 150
+
+
+Penny
+
+Movement speed scaling reduced from 8 to 6
+
+Reload speed scaling reduced from 200 to 150
+
+
+Jessie
+
+Reload speed scaling reduced from 200 to 150
+
+
+Squeak
+
+Damage scaling increased from 2 to 3
+
+
+Amber
+
+Damage scaling increased from 3 to 4
+
+
+El Primo
+
+Reload speed scaling increased from 150 to 200
+
+
+Sam
+
+Damage scaling increased from 4 to 5
+
+Health scaling increased from 450 to 500
+
+
+Charlie
+
+Damage scaling increased from 5 to 6
+
+
+R-T
+
+Damage scaling increased from 2 to 3
+
+
+Bull
+
+Health scaling increased from 650 to 750
+
+Damage scaling increased from 3 to 4
+
+
+Bibi
+
+Health scaling increased from 650 to 750
+
+Damage scaling increased from 3 to 4
+
+
+Sirius
+
+Damage scaling increased from 2 to 3
+
+
+Frank
+
+Health scaling increased from 750 to 850
+
+
+Sandy
+
+Damage scaling increased from 4 to 5
+
+
+Buster
+
+Health scaling increased from 650 to 750
+
+Damage scaling increased from 3 to 4
+
+
+Doug
+
+Health scaling increased from 450 to 550
+
+Maps, Game Modes, Environments & Rotation Changes
+New seasonal game modes are coming with this update, including two cooking-themed modes and a brand-new PvE one!
+
+Cooking Modes (Pve + PvP)
+Two new game modes that combine cooking with Brawling! Teams have a set of orders that they need to complete to win.
+
+Each order has a recipe with 3-5 ingredients that need to be gathered and placed into a cooking station (Wok). Ingredients are held by delivery bots roaming around the map. 
+
+
+There are 10 different ingredient types:
+
+Noodle
+
+Chili
+
+Mushroom
+
+Carrot
+
+Pak Choi
+
+Garlic
+
+Fish
+
+Shrimp
+
+Egg
+
+Soy Sauce
+
+No "wrong ingredients" can be placed in the wok, only ones found in available recipes.
+
+Combat Cooking (PvE)
+Played by a single team of 3 players! Players have 3 orders to complete before time runs out.
+
+Delivery bots are protected by strong guard bots, with 3 different guard bot types.
+
+Food Fight (PvP)
+Two teams of 3 players! Both teams have the same 3 orders to complete and compete against each other, fighting over ingredients.
+
+The first team to complete all orders wins the game. If time runs out, the team with more orders completed wins. If both teams have the same amount, overtime starts and the first team to complete a recipe wins.
+
+Mecha Guard
+Mecha Guard is a brand-new PvE mode hitting Brawl Stars later this update! Players will work together to carry and charge up a battery for Meg's Mecha, fighting off hordes of enemies and gaining power-ups as they progress. When reaching the end, they'll have a fully charged-up Mecha join them for an epic battle against a random giant boss enemy (a scaled-up version of one of the enemies).
+
+Environments
+Removed:
+
+Biodome
+
+Giftshop
+
+Starr Toons Studios
+
+Added:
+
+Katana Kingdom
+
+Hub (Showdown)
+
+Windstock
+
+Maps
+Combat Cooking
+
+Quantum Kitchen
+
+Wok & Roll
+
+Undercooked
+
+Stir Station
+
+Food Fight
+
+Woktopia
+
+Cloud Kitchen
+
+Mill & Chill
+
+Turbine Terrace
+
+Ranked
+Season 1
+
+Featured game mode: Gem Grab
+
+Rustic Arcade
+
+Crystal Arcade
+
+Free Brawler Rotation:
+
+Berry
+
+Tara
+
+Meg
+
+
+Season 2
+
+Featured game mode: Brawl Ball
+
+Spiraling Out
+
+Beach Ball
+
+Free Brawler Rotation:
+
+Trunk
+
+Willow
+
+Kaze
+
+Permanent Improvements & QoL Features
+Mythic Skins will now always have Kill SFX tied to their Kill VFX. Mythic rarity Skins and below will have extra sounds if the base Brawler sound doesn't match the new VFXs well enough.
+
+68 Skin-specific sound additions
+
+Frank's Noise Cancelling Gadget sound has been changed (from Noise Cancelling VO to music plus Frank humming the melody), as the community requested
+
+Shop Improvements
+Brazil only: Show the next Buffie a specific Claw Machine will give.
+
+Brazil only: Tickets available for purchase instead of Brawler Boxes during Brawler release events.
+
+Brazil only: No more Boxes for Gems at the end of the Brawl Pass.
+
+Other
+Dashes that do no damage have a more accurate indicator where you end up (they were previously slightly longer).
+
+Speed boosts no longer stack. If multiple speed boosts are active at the same time, only the strongest one will be applied.
+
+The end of the Brawl Pass no longer contains additional boxes for Gems.
+
+Leaving early from matches in Brawler Release events now give players a Warning and eventually a Cooldown.
+
+New Creators Pins, Sprays, Icons, and Titles have been added to better identify  them as Creators in-game.
+
+The Rush Events button now also displays how much time remains until the event is over.
+
+Catalog will now display different descriptions to indicate a Skin’s availability within the Oddities Shop:
+
+Has a chance to appear in the Oddities Shop.
+
+Will appear in the Oddities Shop at a later time.
+
+Will never appear in the Oddities Shop.
+
+Sprout Art Rework
+Sprout has received a small visual refresh!
+
+Sprout's base model has been slightly updated, including a new backpack carrying seeds
+
+Skins updated to match: Corrupted Sprout, True Gold Sprout, and True Silver Sprout
+
+Sprout's Portrait has been updated to match its model's changes.
+
+Sprout's Pins will receive a minor update to match these changes in Update 70.
+
+Bug Fixes
+General Fixes
+
+Fixed a bug where Trophy Rush would sometimes obscure the game mode banner.
+
+Fixed a bug where disabling Pins in matches also disabled team chat messages for other players.
+
+Fixed a Duels exploit where players could manipulate bot matches to more easily reach Prestige 5.
+
+Brawler Fixes
+
+Fixed a bug where Nani's aim indicator would no longer pass through walls as expected.
+
+Fixed a bug where Starr Nova's second Gadget wouldn’t go on cooldown when interrupted by knockback.
+
+Fixed a crash where Colette's Hypercharged Teen Spirit Buffie attack could execute after Colette died.
+
+Fixed a bug where Ruffs’ Air Superiority calculated its bonus damage incorrectly.
+
+Fixed a bug where Otis’ Super Starfish could attach to Brawlers protected by spawn immunity.
+
+Fixed a bug where Gray’s Fake Injury Star Power did not work correctly when his maximum Health was increased above its base value.
+
+Fixed a bug where Mortis’ Creepy Harvest restored Health based on the defeated Brawler’s level instead of Mortis’ own level.
+
+Fixed Lola’s base damage incorrectly being 150%.
+
+Fixed an issue where Colette's Super aiming indicator didn’t match her actual travel distance.
+
+Fixed an issue where some players Daily Streaks would not progress.
