@@ -11,7 +11,6 @@ def main():
     changes = parse_patch_notes(FILE_PATH, PATCH_VERSION, RELEASE_DATE)
     
     print("2. Initializing Vector Database...")
-    # This will create a folder called 'chroma_db' in your project
     db = PatchVectorStore()
     
     print("3. Indexing data...")
@@ -21,10 +20,10 @@ def main():
     query = "What happened to Damian's fire punch?"
     print(f"Query: '{query}'")
     
-    # We pass the query and specifically filter metadata so the DB ONLY searches Damian's changes
+    
     search_results = db.search(query=query, n_results=2, brawler_name="Damian")
     
-    # ChromaDB returns a dictionary of lists. We grab the 'documents' list.
+    
     docs = search_results.get("documents", [[]])[0]
     
     for i, doc in enumerate(docs):

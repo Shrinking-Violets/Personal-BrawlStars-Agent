@@ -5,7 +5,6 @@ class Brawler(BaseModel):
     name: str
     power: int
     trophies: int
-    # Maps the incoming JSON 'highestTrophies' to our Python variable
     highest_trophies: int = Field(alias="highestTrophies")
 
 class PlayerProfile(BaseModel):
@@ -20,7 +19,7 @@ class Event(BaseModel):
     map: Optional[str] = None
 
 class Battle(BaseModel):
-    result: Optional[str] = None       # e.g. "victory", "defeat", "draw"
+    result: Optional[str] = None      
     duration: Optional[int] = None
     trophy_change: Optional[int] = Field(default=None, alias="trophyChange")
 
