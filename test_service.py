@@ -3,7 +3,6 @@ from services.brawl_client import BrawlStarsClient
 
 async def main():
     client = BrawlStarsClient()
-    # Replace with your actual player tag
     player_tag = "#9CRYGLC" 
     battle_log = await client.get_battle_log(player_tag)
     print(f"✅ Battle Log Loaded: {len(battle_log.items)} recent battles found.")
