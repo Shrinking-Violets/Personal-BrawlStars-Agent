@@ -12,7 +12,7 @@ def parse_patch_notes(filepath: str, patch_version: str, release_date: str) -> L
         lines = f.readlines()
 
     current_brawler = None
-    current_type = None  # "Buff" or "Nerf"
+    current_type = None  
 
     for line in lines:
         line = line.strip()
@@ -28,12 +28,6 @@ def parse_patch_notes(filepath: str, patch_version: str, release_date: str) -> L
             current_type = "Nerf"
             current_brawler = None
             continue
-
-        # Logic to identify a Brawler name (usually just a single capitalized word on its own line)
-        
-        if line.isalpha() and line.istitle():
-             current_brawler = line
-             continue
         
        
         if current_brawler and current_type and len(line) > 5:
@@ -43,7 +37,6 @@ def parse_patch_notes(filepath: str, patch_version: str, release_date: str) -> L
             elif "Star Power" in line: target = "Star Power"
             elif "NanoPower" in line: target = "NanoPower"
 
-            # Attempt to extract old/new values if the line uses ">" or "->" or "to"
             old_val = None
             new_val = None
             

@@ -79,7 +79,6 @@ class BrawlAgent:
 
         elif tool_name == "get_battle_log":
             battles = await self.brawl_client.get_battle_log(args["player_tag"])
-            # Return the last 5 battles to keep context concise
             recent_items = battles.items[:5] if battles.items else []
             return json.dumps([item.model_dump() for item in recent_items])
 
